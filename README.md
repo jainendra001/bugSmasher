@@ -1,2 +1,2 @@
 # bugSmasher
-Gemini Powered AI Code Reviewer for Internviews.
+Gemini Powered AI Code Reviewer for Interviews.
